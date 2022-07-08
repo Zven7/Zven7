@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Dario Gomez</h1>
+<h1 align="center">Hi, I'm Dario Gomez</h1>
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zven7&label=Profile%20views&color=0e75b6&style=flat" alt="zven7" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zven7" alt="zven7" /></a> </p>
 
-- 📫 How to reach me **dario_07_11@hotmail.com**
+- 📫 Reach me at **dario_07_11@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
