@@ -6,6 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zven7" alt="zven7" /></a> </p>
 
 - 📫 Reach me at **dario_07_11@hotmail.com**
+- Link to my portfolio: <a href="https://zvendev.com/">HERE!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
